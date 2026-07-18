@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clone Desktop App"
+  short_description: "Reverse-engineer a Windows desktop app into a web-app clone."
+  default_prompt: "Use $clone-desktop-app to clone a running Windows desktop application into a local web app."

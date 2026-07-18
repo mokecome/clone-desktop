@@ -1,3 +1,0 @@
-WINDOW '剪映专业版' class='HomePage_QMLTYPE_183' FrameworkId=Qt
-
-[-1 descendant controls, depth<=6]
